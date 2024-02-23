@@ -1,8 +1,17 @@
 # **Computer Vision Integrated Website**
 
-run the app.py for the main website
+### Run the following for the main website in pose folder :
+```
+cd pose
+```
+```
+python app.py
+```
 
-run the following for emotion detection
+### Run the following for emotion detection in the emotion folder :
+```
+cd emotion
+```
 ```
 streamlit run s_app.py
 ```
